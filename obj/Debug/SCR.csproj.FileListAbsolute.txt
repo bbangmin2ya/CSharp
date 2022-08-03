@@ -1,0 +1,19 @@
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\SCR.exe.config
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\SCR.exe
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\SCR.pdb
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\LimeS Button.dll
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\LimeS Socket.dll
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\RestSharp.dll
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\websocket-sharp.dll
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bbang\Desktop\SCRSvr\bin\Debug\RestSharp.xml
+C:\Users\bbang\Desktop\SCRSvr\obj\Debug\SCR.frmMain.resources
+C:\Users\bbang\Desktop\SCRSvr\obj\Debug\SCR.Properties.Resources.resources
+C:\Users\bbang\Desktop\SCRSvr\obj\Debug\SCR.csproj.GenerateResource.Cache
+C:\Users\bbang\Desktop\SCRSvr\obj\Debug\SCR.exe
+C:\Users\bbang\Desktop\SCRSvr\obj\Debug\SCR.pdb
+C:\Users\bbang\Desktop\SCRSvr\obj\Debug\SCR.csprojResolveAssemblyReference.cache
+G:\WorkSpace\4.프로그램\SCRSvr\bin\Debug\SCR.exe.config
+G:\WorkSpace\4.프로그램\SCRSvr\obj\Debug\SCR.exe
+G:\WorkSpace\4.프로그램\SCRSvr\obj\Debug\SCR.pdb
